@@ -1,0 +1,70 @@
+{
+    "personal" : [
+        {
+            "administratia": [
+                {
+                    "id": 1,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                },
+                {
+                    "id": 2,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                },
+                {
+                    "id": 3,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                }
+            ]
+        },
+        {
+            "mediciStomatologi": [
+                {
+                    "id": 1,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                },
+                {
+                    "id": 2,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                },
+                {
+                    "id": 3,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                }
+            ]
+        },
+        {
+            "asistentiMedicali": [
+                {
+                    "id": 1,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                },
+                {
+                    "id": 2,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                },
+                {
+                    "id": 3,
+                    "nume": "Dr. Valentina FALA",
+                    "specialitate": "Director C.S. FALA Dental, Medic Stomatolog",
+                    "img": "fsdgfsgfdhdsfhfsd"
+                }
+            ]
+        }
+    ]
+}
